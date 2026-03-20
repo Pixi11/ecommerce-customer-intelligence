@@ -102,13 +102,13 @@ Built a 3-page interactive dashboard:
 ## Dashboard Screenshots
 
 ### Page 1 — CEO Overview
-![CEO Overview](dashboard/page1_ceo_overview.png)
+![CEO Overview](Dashboard/page1_ceo_overview.png)
 
 ### Page 2 — Customer Intelligence
-![Customer Intelligence](dashboard/page2_customer_intelligence.png)
+![Customer Intelligence](Dashboard/page2_customer_intelligence.png)
 
 ### Page 3 — Product & Payment Analysis
-![Product Payment](dashboard/page3_product_payment.png)
+![Product Payment](Dashboard/page3_product_payment.png)
 
 ---
 
