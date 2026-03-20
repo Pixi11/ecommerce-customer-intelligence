@@ -1,8 +1,6 @@
 # E-Commerce Customer Intelligence Dashboard
 ### End-to-end business analytics project using Excel and Power BI
 
-![Dashboard](screenshots/page1_ceo_overview.png)
-
 ---
 
 ## Project Overview
@@ -104,13 +102,13 @@ Built a 3-page interactive dashboard:
 ## Dashboard Screenshots
 
 ### Page 1 — CEO Overview
-![CEO Overview](screenshots/page1_ceo_overview.png)
+![CEO Overview](dashboard/page1_ceo_overview.png)
 
 ### Page 2 — Customer Intelligence
-![Customer Intelligence](screenshots/page2_customer_intelligence.png)
+![Customer Intelligence](dashboard/page2_customer_intelligence.png)
 
 ### Page 3 — Product & Payment Analysis
-![Product Payment](screenshots/page3_product_payment.png)
+![Product Payment](dashboard/page3_product_payment.png)
 
 ---
 
